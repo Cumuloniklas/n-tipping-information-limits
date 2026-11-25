@@ -1,4 +1,5 @@
 # On the Information Limits of Local Early-Warning Indicators for Noise-Induced Tipping
+[![DOI](https://zenodo.org/badge/1472349546.svg)](https://doi.org/10.5281/zenodo.24543920)
 
 This repository contains a concise mathematical note proving an explicit non-identifiability theorem for local prediction functionals of noise-induced escape in one-dimensional gradient diffusions.
 
